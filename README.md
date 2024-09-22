@@ -50,3 +50,8 @@ In 3D programming with JavaScript, particularly in libraries like Three.js, posi
 4. Add Lighting <br>
 5. Set up a renderer <br>
 6. Animate the scene <br>
+
+<br>
+<br>
+<h1>To Run This Code</h1>
+Copy or Download the code and run index.html file in the browser.
