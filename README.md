@@ -43,7 +43,7 @@ In 3D programming with JavaScript, particularly in libraries like Three.js, posi
 
 <hr>
 
-<h1>Steps To create Animate with three js</h1>
+<h1>Steps To Create 3D Animation with Three js</h1>
 1. Create the Scene <br>
 2. Add the Camera <br>
 3. Create and add a Cube Object <br>
