@@ -22,7 +22,8 @@ We humans only understand 5 dimensions. <br>
 
 <h1>3D programming with JavaScript</h1>
 In 3D programming with JavaScript, particularly in libraries like Three.js, positions are typically represented using three axes: X, Y, and Z. These coordinates define where an object is located in 3D space. Let’s break down each axis and how positioning works in 3D.
-
+<br>
+<br>
 1. X-Axis (Horizontal Position) <br>
 => Represents the horizontal position of an object.<br>
 => A positive X value moves the object to the right.<br>
